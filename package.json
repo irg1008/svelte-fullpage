@@ -1,0 +1,23 @@
+{
+  "name": "@gazquez/svelte-fullpage",
+  "version": "1.0.0",
+  "description": "Fullpage component for svelte. Based on fullPage.js from Álvaro Trigo.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irg1008/svelte-fullpage.git"
+  },
+  "keywords": [
+    "fullpage",
+    "svelte"
+  ],
+  "author": "gazquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/irg1008/svelte-fullpage/issues"
+  },
+  "homepage": "https://github.com/irg1008/svelte-fullpage#readme"
+}
